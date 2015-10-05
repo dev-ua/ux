@@ -1,2 +1,2 @@
 # ux
-What is User Experience Design? We havee no idea.
+What is User Experience Design? We have no idea.
